@@ -19,3 +19,4 @@ bin-release/
 .idea/*
 target
 maven_mybatis.iml
+pom.xml
